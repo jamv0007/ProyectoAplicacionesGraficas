@@ -1,0 +1,3 @@
+/Users/joseantonio/Practicas/Practicas_PAG/Practica10_PAG/cmake-build-debug/CMakeFiles/Practica10_PAG.dir
+/Users/joseantonio/Practicas/Practicas_PAG/Practica10_PAG/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joseantonio/Practicas/Practicas_PAG/Practica10_PAG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
